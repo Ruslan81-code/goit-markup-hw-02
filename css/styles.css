@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: ~#434455;
+  color: #434455;
   background-color: #fff;
 }
 
@@ -26,11 +26,11 @@ button {
   color: #4d5ae5;
 }
 
-.header-logo .logo.part {
+.header-logo .logo-part {
   color: #2e2f42;
 }
 
-.footer-logo .logo.part {
+.footer-logo .logo-part {
   color: #f4f4fd;
 }
 .nav.link {
