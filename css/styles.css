@@ -16,9 +16,20 @@ a {
 
 button {
   cursor: pointer;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
   background-color: #4d5ae5;
 }
 
+.button-link .link {
+  background-color: #404bbf;
+}
+.button-link:hover,
+.button-link:focus {
+  background-color: #404bbf;
+}
 /*=====/COMMON STYLES=====*/
 
 /*=====HEADER STYLES=====*/
@@ -68,6 +79,10 @@ button {
 /*=====/HEADER STYLES=====*/
 
 /*=====MAIN STYLES=====*/
+.main-page {
+  background-color: #ffffff;
+}
+
 .hero {
   background-color: #2e2f42;
 }
@@ -89,16 +104,6 @@ h1 {
   letter-spacing: 0.02em;
 }
 
-h2 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
-
 .advantages-title {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -113,6 +118,21 @@ h2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.users {
+  background-color: #f4f4fd;
+}
+
+.team-pic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .image-title {
@@ -150,9 +170,9 @@ h2 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -160,7 +180,7 @@ h2 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
