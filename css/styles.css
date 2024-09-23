@@ -80,7 +80,7 @@ button {
 
 /*=====MAIN STYLES=====*/
 .portfolio-gallery {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .hero {
@@ -90,7 +90,7 @@ button {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -136,7 +136,7 @@ h1 {
 }
 
 .team-list {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .image-title {
@@ -174,7 +174,7 @@ h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.07;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -203,4 +203,3 @@ h1 {
   background-color: #2e2f42;
 }
 /*=====/FOOTER STYLES====*/
-
