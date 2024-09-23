@@ -135,6 +135,10 @@ h1 {
   color: #2e2f42;
 }
 
+.team-list {
+  background-color: #FFFFFF;
+}
+
 .image-title {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -153,24 +157,13 @@ h1 {
   color: #434455;
 }
 /*=====/MAIN STYLES=====*/
-/*=====FOOTER STYLES=====*/
-.footer-text {
-  font-family: "Roboto", sans-serif;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
-}
-.footer-size {
-  background-color: #2e2f42;
-}
-/*=====/FOOTER STYLES====*/
 
 /*=====PORTFOLIO STYLES=====*/
 .portfolio-hero-title {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -196,3 +189,18 @@ h1 {
   text-align: center;
   color: #434455;
 }
+
+/*=====/PORTFOLIO STYLES=====*/
+
+/*=====FOOTER STYLES=====*/
+.footer-text {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.footer-size {
+  background-color: #2e2f42;
+}
+/*=====/FOOTER STYLES====*/
+
